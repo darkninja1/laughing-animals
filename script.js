@@ -18,9 +18,10 @@ function laugh() {
   lol.style.display = "none";
   
   document.body.appendChild(lol);
+  document.body.appendChild(lol2);
   lol.load();
   lol.play();
-  document.body.appendChild(lol2);
+  
   
   lol.onended = function() {
     lol.remove();
