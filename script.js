@@ -14,7 +14,6 @@ function laugh() {
   lol2.style.height = '100px';
   lol2.style.bottom = y+"px";
   lol2.style.left = x+"px";
-  lol2.style.display = 'block';
   lol.style.display = "none";
   
   document.body.appendChild(lol);
