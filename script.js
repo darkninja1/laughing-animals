@@ -9,7 +9,7 @@ function laugh() {
   var lol = document.createElement("AUDIO");
   var lol2 = document.createElement("IMG");
   lol2.setAttribute("src",pic[random]);
-  lol2.style.position = "fixed";
+  lol2.style.position = "relative";
   lol2.style.width = 'auto';
   lol2.style.height = '100px';
   lol2.style.bottom = y+"px";
