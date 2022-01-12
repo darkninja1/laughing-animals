@@ -4,7 +4,7 @@
   top:30%;
   left:35%;
   color:white;
-  border:2px solid black;
+  border:5px solid rgb(27, 27, 27);
   border-radius:100%;
   padding:10px;
   font-size:35px;
@@ -14,7 +14,7 @@
   z-index:1000;
 }
 #animal1:hover {
-  background-color:rgb(116, 22, 22);
+  background-color:rgb(146, 26, 26);
   color:yellow;
   cursor:pointer;
 }
