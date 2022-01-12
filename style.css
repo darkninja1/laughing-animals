@@ -11,7 +11,7 @@
   font-weight:bold;
   width:200px;
   height:200px;
-  
+  z-index:1000;
 }
 #animal1:hover {
   background-color:rgb(116, 22, 22);
