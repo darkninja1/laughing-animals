@@ -12,8 +12,8 @@ function laugh() {
   lol2.style.position = "relative";
   lol2.style.width = 'auto';
   lol2.style.height = '100px';
-  lol2.style.bottom = y+"px";
-  lol2.style.left = x+"px";
+  lol2.style.top = y;
+  lol2.style.left = x;
   lol.style.display = "none";
   lol.setAttribute("src",file[random]);
   document.body.appendChild(lol);
