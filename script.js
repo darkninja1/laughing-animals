@@ -1,4 +1,3 @@
-var animal = [];
 var file = ['animal/lep.mp3','animal/lio.mp3','animal/hyena.mp3','animal/mon.mp3','animal/lemur.mp3'];
 var pic = ['pics/lep.png','pics/lio.jpg','pics/hyena.jpg','pics/mon.png','pics/lemur.png'];
 
